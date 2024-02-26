@@ -4,7 +4,11 @@
   </a>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=katawasiya&theme=transparent&mode=weekly)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=katawasiya&theme=transparent&mode=weekly" />
+  </a>
+</p>
 
 <!-- 🚀 **Check out my latest projects:**
 - [Project 1](https://github.com/katawasiya/project1)

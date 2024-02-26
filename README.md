@@ -5,46 +5,10 @@
 </p>
 
 <h2 align="center">Languages and Tools</h2>
-<p align="center">
-  <a href="https://cloud.yandex.ru/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Yandex%20Cloud-FF0000?style=for-the-badge&logo=yandex&logoColor=white" alt="yandex cloud" width="60" height="25"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes" width="60" height="25"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" width="60" height="25"/>
-  </a>
-  <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white" alt="cassandra" width="60" height="25"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" width="60" height="25"/>
-  </a>
-  <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="elasticsearch" width="60" height="25"/>
-  </a>
-  <a href="https://grafana.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Grafana-F46500?style=for-the-badge&logo=grafana&logoColor=white" alt="grafana" width="60" height="25"/>
-  </a>
-  <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" alt="kibana" width="60" height="25"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" width="60" height="25"/>
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" width="60" height="25"/>
-  </a>
-</p>
+<p align="center"> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=katawasiya&theme=transparent&mode=weekly)](https://git.io/streak-stats) </p>
 
 
 <!-- 🚀 **Check out my latest projects:**
 - [Project 1](https://github.com/katawasiya/project1)
 - [Project 2](https://github.com/katawasiya/project2)
 - [Project 3](https://github.com/katawasiya/project3) -->
-
-<p align="center">📫 **How to reach me:**</p>
-<p align="center">- Email: (mailto:denis@softskillmachine.ru)</p>
-
-<p align="center">⚡ **Fun fact:** Money is made not from paper, but from cotton</p>

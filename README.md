@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=DenverCoder1&theme=transparent&mode=weekly" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=katawasiya&theme=transparent&mode=weekly" />
   </a>
 </p>
 
